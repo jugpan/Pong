@@ -1,2 +1,2 @@
 # Pong
-Game of pong created simply in Java. 
+Game of pong created simply in Java. This could not have been done without Bro Code on YT. 
